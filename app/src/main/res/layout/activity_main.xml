@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/satu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What is UI?"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"/>
+
+    <Button
+        android:id="@+id/dua"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How to be UI/UX Designer?"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"/>
+
+    <Button
+        android:id="@+id/tiga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Portfolio Example"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"/>
+</RelativeLayout>
+
